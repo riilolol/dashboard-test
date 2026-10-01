@@ -1,0 +1,19 @@
+body {
+	padding: 20px;
+	text-align: center;
+	font-family: Geist Pixel;
+}
+
+marquee {
+	padding-bottom: 10px;
+	text-decoration: none;
+	color: black;
+}
+
+marquee:hover {
+		text-decoration: underline;
+}
+
+.a {
+	padding: 10px;
+}
